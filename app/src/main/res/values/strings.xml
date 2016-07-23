@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoFall97</string>
+
+    <string name="image_top">top</string>
+    <string name="image_bottom">bottom</string>
+    <string name="image_url">url</string>
+</resources>
